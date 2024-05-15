@@ -1,4 +1,4 @@
-# Hello There <img src="giphy.gif" width="20" height="20">
+# Hello There <img src="giphy.gif" height="30">
 
 I am a fourth year computer science student at Epitech Berlin. Linux, FOSS, selfhosting and tinkering with my system is
 what I fill my days with.
