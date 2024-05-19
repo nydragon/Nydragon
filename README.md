@@ -17,5 +17,5 @@ Some projects I worked on are:
 - [An R-Type like multiplayer sidescroller](https://github.com/Epitech-R-Type/R-Type)
 
 <a align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nydragon&hide=Processing&layout=donut&langs_count=6&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nydragon&hide=Processing&layout=donut&langs_count=6&theme=tokyonight" />
 </a>
