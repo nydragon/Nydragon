@@ -16,4 +16,4 @@ Some projects I worked on are:
 - [A basic Scheme Interpeter](https://github.com/Nydragon/GLaDOS-2023)
 - [An R-Type like multiplayer sidescroller](https://github.com/Epitech-R-Type/R-Type)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nydragon&hide=Processing&layout=donut&langs_count=6" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nydragon&hide=Processing&layout=donut&langs_count=6&theme=tokyonight" />
