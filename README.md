@@ -1,4 +1,4 @@
-# Hello There <img src="assets/obi-wan-hello-there.gif" height="30">
+# Hello There
 
 I am a fourth year computer science student at Epitech. Linux, FOSS, Homelabbing and tinkering with my system is what I spend my time on.
 
